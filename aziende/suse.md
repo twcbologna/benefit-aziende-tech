@@ -46,4 +46,4 @@ Prodotti software in ambiente Linux.
 | **Campo**                 | **Valore**                                                           |
 | ------------------------------- | -------------------------------------------------------------------------- |
 | Formazione e certificazioni     |                                                                            |
-| Formazione in orario lavorativo | E' possibile allocare parte del priprio tempo per la formazione |
+| Formazione in orario lavorativo | E' possibile allocare parte del proprio tempo per la formazione |
