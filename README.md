@@ -18,4 +18,4 @@ I dati sono regolarmente sottoposti ad un processo di screening per analisi di c
 | ------------------------------------------------------ | --------------------- | ------------ | ------------------------------ |
 | [Prima Assicurazioni SpA](aziende/prima_assicurazioni.md) | ✅                    | Assicurativo | 04/05/2024                     |
 | [Spindox SpA](aziende/spindox.md)                         |                       | Consulenza   | 04/05/2024                     |
-| SUSE srl                                               | ✅                    | Software     | 04/05/2024                     |
+| [SUSE srl](aziende/suse.md)                               | ✅                    | Software     | 04/05/2024                     |
