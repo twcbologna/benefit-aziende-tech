@@ -7,7 +7,7 @@ Prodotti software in ambiente Linux.
 | **Campo**           | **Valore**                             |
 | ------------------------- | -------------------------------------------- |
 | CCNL                      | Commercio                                    |
-| Numero dipendenti (range) | 1000-2000                                    |
+| Numero dipendenti (range) | 2000-3000                                    |
 | Settore                   | Software                                     |
 | Rappresentanza sindacale  | No                                           |
 | Sede legale               | Roma                                         |
