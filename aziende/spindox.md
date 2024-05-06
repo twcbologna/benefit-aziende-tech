@@ -27,27 +27,23 @@ Tra le prime 50 aziende italiane nel settore del ICT per volume d'affari e tasso
 
 | **Campo**         | **Valore** |
 | ----------------------- | ---------------- |
-| Assicurazione sanitaria |                  |
-| Fondo pensione          |                  |
-| Malattia                |                  |
-| Maternità e paternità |                  |
-| Ferie e permessi        |                  |
+| Assicurazione sanitaria |     N/A             |
+| Fondo pensione          |     N/A             |
+| Malattia                |      N/A            |
+| Maternità e paternità |       N/A           |
+| Ferie e permessi        |     N/A             |
 
 ### Incentivi economici
 
 | **Campo**              | **Valore** |
 | ---------------------------- | ---------------- |
-| Crediti welfare              |                  |
-| Premi di risultato           |                  |
-| Sconti su prodotti e servizi |                  |
+| Crediti welfare              |    N/A              |
+| Premi di risultato           |    N/A              |
+| Sconti su prodotti e servizi |    N/A              |
 
 ### Formazione e sviluppo professionale
 
 | **Campo**                 | **Valore** |
 | ------------------------------- | ---------------- |
-| Formazione e certificazioni     |                  |
-| Formazione in orario lavorativo |                  |
-
-### Altri benefit
-
-Casella di testo unica
+| Formazione e certificazioni     |    N/A              |
+| Formazione in orario lavorativo |   N/A               |

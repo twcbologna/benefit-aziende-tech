@@ -9,7 +9,7 @@ Prima Assicurazioni è una compagnia assicurativa italiana fondata nel 2015 che 
 | CCNL                      | Commercio                                    |
 | Numero dipendenti (range) | 200-1000                                     |
 | Settore                   | Assicurativo                                 |
-| Rappresentanza sindacale  |                                              |
+| Rappresentanza sindacale  | [rsaprima.cgil@prima.it](mailto:rsaprima.cgil@prima.it) |
 | Sede legale               | Milano                                       |
 | Uffici                    | https://www.helloprima.com/careers/locations |
 
@@ -19,7 +19,7 @@ Prima Assicurazioni è una compagnia assicurativa italiana fondata nel 2015 che 
 
 | **Campo**      | **Valore**                                                                                                 |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Lavoro remoto        | Possibilità di scegliere tra full remote o smart working, con obbligo di 1<br />giorno a settimana in presenza. |
+| Lavoro remoto        | Possibilità di scegliere tra full remote o smart working, con obbligo di 1 giorno a settimana in presenza. |
 | Flessibilità orario | Sì                                                                                                              |
 | Buoni pasto          | 7€, anche da casa                                                                                               |
 
@@ -27,11 +27,11 @@ Prima Assicurazioni è una compagnia assicurativa italiana fondata nel 2015 che 
 
 | **Campo**         | **Valore** |
 | ----------------------- | ---------------- |
-| Assicurazione sanitaria |                  |
-| Fondo pensione          |                  |
-| Malattia                |                  |
-| Maternità e paternità |                  |
-| Ferie e permessi        |                  |
+| Assicurazione sanitaria |   N/A               |
+| Fondo pensione          |   N/A               |
+| Malattia                |   N/A               |
+| Maternità e paternità |    N/A              |
+| Ferie e permessi        |   N/A               |
 
 ### Incentivi economici
 
@@ -48,8 +48,3 @@ Prima Assicurazioni è una compagnia assicurativa italiana fondata nel 2015 che 
 | Formazione e certificazioni     | Disponibile un budget formazione a livello aziendale                       |
 | Formazione in orario lavorativo | E' possibile allocare il 10% del proprio orario lavorativo alla formazione |
 
-### Altri benefit
-
-| **Campo** | **Valore** |
-| --------------- | ---------------- |
-|                 |                  |
