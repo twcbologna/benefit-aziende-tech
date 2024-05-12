@@ -10,6 +10,10 @@ I dati sono regolarmente sottoposti ad un processo di screening per analisi di c
 
 È prevista una modalità di segnalazione inesattezze via [email](mailto:twcbologna@protonmail.com) sui dettagli relativi ai benefit riportati nella repo in modo da poter presentare un alto livello di affidabilità dei dati inseriti.
 
+## Come posso collaborare?
+
+Nel caso volessi aggiungere l'azienda per cui lavori contattaci a [twcbologna@protonmail.com](mailto:twcbologna@protonmail.com)
+
 ## Lista aziende
 
 | **Azienda**                                      | **Full Remote** | Settore      | **Ultimo aggiornamento** |
