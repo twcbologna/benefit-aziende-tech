@@ -27,9 +27,9 @@
 
 | **Campo**         | **Valore** |
 | ----------------------- | ---------------- |
-| Assicurazione sanitaria | Metasalute       |
-| Fondo pensione          | N/A              |
-| Malattia                | Cometa           |
+| Assicurazione sanitaria | EBM Salute       |
+| Fondo pensione          | Cometa           |
+| Malattia                | N/A              |
 | Maternità e paternità | N/A              |
 | Ferie e permessi        | N/A              |
 
