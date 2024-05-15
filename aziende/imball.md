@@ -1,4 +1,4 @@
-# IMBALL S.r.l.
+# [IMBALL S.r.l.](https://www.imball.it/en/)
 
 Azienda che progetta e produce macchine automatiche e linee di imballaggio per i settori alimentare, farmaceutico, cosmetico e chimico.
 
@@ -11,7 +11,7 @@ Azienda che progetta e produce macchine automatiche e linee di imballaggio per i
 | Settore                   | Macchine Automatiche per il Packaging  |
 | Rappresentanza sindacale  | Sì                                    |
 | Sede legale               | Bologna                                |
-| Uffici                    | https://www.imball.it/contatti_imball/ |
+| Uffici                    | <https://www.imball.it/contatti_imball/> |
 
 ## Benefit
 
