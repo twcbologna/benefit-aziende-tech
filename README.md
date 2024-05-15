@@ -18,6 +18,8 @@ Nel caso volessi aggiungere l'azienda per cui lavori contattaci a [twcbologna@pr
 
 | **Azienda**                                      | **Full Remote** | Settore      | **Ultimo aggiornamento** |
 | ------------------------------------------------------ | --------------------- | ------------ | ------------------------------ |
+| [EFI Technology srl](aziende/efi.md)                      |                       | Elettronica  | 13/06/2024                     |
+| [IMBALL srl](aziende/imball.md)                           |                       | Automazione  | 13/06/2024                     |
 | [Prima Assicurazioni SpA](aziende/prima_assicurazioni.md) | ✅                    | Assicurativo | 04/05/2024                     |
 | [Spindox SpA](aziende/spindox.md)                         |                       | Consulenza   | 04/05/2024                     |
 | [SUSE srl](aziende/suse.md)                               | ✅                    | Software     | 04/05/2024                     |
