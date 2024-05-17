@@ -10,9 +10,9 @@ I dati sono regolarmente sottoposti ad un processo di screening per analisi di c
 
 È prevista una modalità di segnalazione inesattezze via [email](mailto:twcbologna@protonmail.com) sui dettagli relativi ai benefit riportati nella repo in modo da poter presentare un alto livello di affidabilità dei dati inseriti.
 
-## Come posso collaborare?
+## Come posso contribuire?
 
-Nel caso volessi aggiungere l'azienda per cui lavori contattaci a [twcbologna@protonmail.com](mailto:twcbologna@protonmail.com)
+Nel caso volessi aggiungere l'azienda per cui lavori contattaci a [twcbologna@protonmail.com](mailto:twcbologna@protonmail.com) oppure compila direttamente il [form](https://nextcloud.twc-italia.org/apps/forms/s/fEoLRKSzJskSrcNKFc5SzHiD) per la raccolta dati.
 
 ## Lista aziende
 
