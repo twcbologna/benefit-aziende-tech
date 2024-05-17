@@ -2,7 +2,7 @@
 
 ## Come funziona la repo?
 
-Lo scopo della repository è quello di collezionare informazioni relative ai benefit offerti dalle aziende tech del territorio nazionale.
+Lo scopo della repository è quello di collezionare informazioni relative ai benefit offerti dalle aziende tech del territorio nazionale. Tutti i dati verranno caricati in modo anonimo da TWC Bologna.
 
 Precisando che nella prima fase del progetto si considereranno solamente i benefit offerti a tutti i dipendenti dell'azienda per poi espandere, in una seconda fase, ad elementi più soggettivi quali RAL, livello CCNL, seniority e benefit ad personam.
 
