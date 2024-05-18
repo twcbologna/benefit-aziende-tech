@@ -23,3 +23,4 @@ Nel caso volessi aggiungere l'azienda per cui lavori contattaci a [twcbologna@pr
 | [Prima Assicurazioni SpA](aziende/prima_assicurazioni.md) | ✅                    | Assicurativo | 04/05/2024                     |
 | [Spindox SpA](aziende/spindox.md)                         |                       | Consulenza   | 04/05/2024                     |
 | [SUSE srl](aziende/suse.md)                               | ✅                    | Software     | 04/05/2024                     |
+| [Prometeia SpA](aziende/prometeia.md)                     |                       | Consulenza   | 18/05/2024                     |
